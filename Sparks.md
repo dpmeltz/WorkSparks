@@ -1,5 +1,6 @@
 # Work Sparks
 This is an unsorted list of short statements or questions to help unstick stuck work.
+A lot of these ideas are designed to help make the work or it's output more rewarding or motivating, or reduce the friction cread by the work.
 
 01. Look for something small and repetitive, and eliminate or automate it.
 02. Find the most annoying part, and make it (slightly) less so.
